@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../schemas/skill.schema.json",
+  "id": "aiapplyd-job-search",
+  "type": "skill",
+  "name": "AI Applyd job search skills",
+  "tagline": "Ten ready-made job search workflows: find matches, tailor, apply, review, track and prepare",
+  "description": "Ten skills that drive the AI Applyd MCP server: set up a job search, find matching jobs, tailor a resume for a job, write a cover letter, apply to a job, review and send held applications, track applications, prepare for an interview, translate a resume and build an editable resume document.",
+  "author": {
+    "name": "AI Applyd",
+    "url": "https://aiapplyd.com"
+  },
+  "homepage": "https://aiapplyd.com/mcps",
+  "repo": "https://github.com/aiapplyd/aiapplyd-mcp",
+  "icon": "./icon.png",
+  "tags": [
+    "productivity",
+    "business"
+  ],
+  "license": "MIT",
+  "verified": false,
+  "featured": false,
+  "install": {
+    "args": [
+      "aiapplyd/aiapplyd-mcp"
+    ]
+  }
+}
