@@ -2,14 +2,14 @@
   "$schema": "../../../schemas/skill.schema.json",
   "id": "aiapplyd-job-search",
   "type": "skill",
-  "name": "AI Applyd job search skills",
+  "name": "GetMattered job search skills",
   "tagline": "Fourteen ready-made job search workflows: find matches, tailor, apply, review, track, follow up and prepare",
-  "description": "Fourteen skills that drive the AI Applyd MCP server: map a request to the right tools, set up a job search, find matching jobs, tailor a resume for a job, write a cover letter, apply to a job, review and send held applications, track applications, prepare for an interview, translate a resume, build an editable resume document, handle recruiter replies, follow up on applications and manage saved searches.",
+  "description": "Fourteen skills that drive the GetMattered MCP server: map a request to the right tools, set up a job search, find matching jobs, tailor a resume for a job, write a cover letter, apply to a job, review and send held applications, track applications, prepare for an interview, translate a resume, build an editable resume document, handle recruiter replies, follow up on applications and manage saved searches.",
   "author": {
-    "name": "AI Applyd",
-    "url": "https://aiapplyd.com"
+    "name": "GetMattered",
+    "url": "https://getmattered.com/"
   },
-  "homepage": "https://aiapplyd.com/mcps",
+  "homepage": "https://getmattered.com/mcps",
   "repo": "https://github.com/aiapplyd/aiapplyd-mcp",
   "icon": "./icon.png",
   "tags": [
