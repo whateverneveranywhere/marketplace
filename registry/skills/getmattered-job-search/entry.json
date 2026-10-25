@@ -1,6 +1,6 @@
 {
   "$schema": "../../../schemas/skill.schema.json",
-  "id": "aiapplyd-job-search",
+  "id": "getmattered-job-search",
   "type": "skill",
   "name": "GetMattered job search skills",
   "tagline": "Fourteen ready-made job search workflows: find matches, tailor, apply, review, track, follow up and prepare",
@@ -10,7 +10,7 @@
     "url": "https://getmattered.com/"
   },
   "homepage": "https://getmattered.com/mcps",
-  "repo": "https://github.com/aiapplyd/aiapplyd-mcp",
+  "repo": "https://github.com/getmattered/getmattered-mcp",
   "icon": "./icon.png",
   "tags": [
     "productivity",
@@ -21,7 +21,7 @@
   "featured": false,
   "install": {
     "args": [
-      "aiapplyd/aiapplyd-mcp"
+      "getmattered/getmattered-mcp"
     ]
   }
 }

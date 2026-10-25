@@ -1,6 +1,6 @@
 {
   "$schema": "../../../schemas/mcp.schema.json",
-  "id": "aiapplyd",
+  "id": "getmattered",
   "type": "mcp",
   "name": "GetMattered",
   "tagline": "Find matched jobs and apply on the employer's own hiring system, with a resume tailored to each role",
@@ -10,7 +10,7 @@
     "url": "https://getmattered.com/"
   },
   "homepage": "https://getmattered.com/mcps",
-  "repo": "https://github.com/aiapplyd/aiapplyd-mcp",
+  "repo": "https://github.com/getmattered/getmattered-mcp",
   "icon": "./icon.png",
   "tags": [
     "productivity",
@@ -21,7 +21,7 @@
   "featured": false,
   "install": {
     "args": [
-      "aiapplyd",
+      "getmattered",
       "--transport",
       "http",
       "https://mcp.getmattered.com/mcp"
